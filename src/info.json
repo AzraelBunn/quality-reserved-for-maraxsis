@@ -1,13 +1,14 @@
 {
-  "name": "MOD-NAME-HERE",
-  "version": "0.0.1",
+  "name": "quality-reserved-for-maraxsis",
+  "version": "1.0.0",
   "factorio_version": "2.0",
-  "title": "[MOD NAME HERE]",
-  "author": "",
+  "title": "Quality reserved for Maraxsis",
+  "author": "AzraelBunn",
   "contact": "",
   "homepage": "",
-  "description": "",
+  "description": "Moves quality unlock to Maraxsis, while keeping modules for crafting recipes.",
   "dependencies": [
-    "base >= 2.0.21"
+    "base >= 2.0.21",
+    "maraxsis"
   ]
 }

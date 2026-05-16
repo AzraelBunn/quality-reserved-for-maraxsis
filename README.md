@@ -1,8 +1,3 @@
-# Delta-Template
-A template for more Delta Mods
-
-# IMPORTANT YOU FUCK
-## Required Stuff
-### Node
-### Pnpm
-### Factorio (duh)
+# Quality reserved for Maraxsis
+Moves quality unlock to Maraxsis, while keeping modules for crafting recipes.
+Stupid mod for a stupid pet peeve.
